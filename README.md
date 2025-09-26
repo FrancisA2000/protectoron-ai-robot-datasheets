@@ -6,7 +6,6 @@ This repository contains datasheets and documentation for the final project "פ�
 
 - **`datasheets/` directory** – contains PDF datasheets for sensors (e.g., color sensor, ultrasonic sensor), microcontrollers (STM32F103, ESP32), servos, cameras, motor drivers, and other modules used in the robot.
 - **Hardware interface manual** – the `Transbot Hardware interface manual.xlsx` file documents wiring and interfacing of the board.
-- **Additional documents** – includes tutorial links and project documents.
 
 ## Description
 
